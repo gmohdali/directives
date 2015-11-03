@@ -1,0 +1,11 @@
+{
+
+
+
+ "scripts": { 
+                 "start" : "http-server -a localhost -p 1001 -c-1"
+
+       }
+
+
+}
